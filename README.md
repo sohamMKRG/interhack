@@ -38,8 +38,16 @@ So this a multi device functional responsive website that shows the entire detai
 2. We will add Database system using Firebase .\
 3. We will improve the login page and will make it password specific.
 
+## Problem that we solved ->\
+ 1. When you're terribly ill you can't go to a health centre by yourself so you can use our website to help yourself.\
+ 2. You can have all the details abour service of health care your by.\
+ 3. You can have your appointment from your home without any kind of problem.\
+ 4. Our website will help digitalization of Health care sector.\
 
-
+## Problems that we faced ->\
+ 1. We have faced forking and initializing problems in github that we have sorted.\
+ 2. We have faced problems in the media query while using our web app in mobile.\
+ 3. We have faced some issues during redirection from login to homepage.\
 
 ## Roadmap
 
@@ -72,7 +80,7 @@ To clone this project run
 
 ## Created by ->
 
-Our team Code-X:
+# Our team Code-X:
 
 - 1.[PRITANSHU SAMANTA](https://github.com/Pritanshu69) 
   
