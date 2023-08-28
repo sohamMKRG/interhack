@@ -74,16 +74,24 @@ To clone this project run
 
 Our team Code-X:
 
-- 1.[PRITANSHU SAMANTA](https://github.com/Pritanshu69)
- ![pritgit2](https://github.com/Pritanshu69/interhack/assets/116452282/4a39d29f-6dfb-455c-8c48-93582177af70)
+- 1.[PRITANSHU SAMANTA](https://github.com/Pritanshu69) 
+  
+![pritgit3](https://github.com/Pritanshu69/interhack/assets/116452282/46e97653-5613-44b2-ac56-0ae6f794b49e)
 
-- 2.[SOHAM MUKHERJEE](https://github.com/sohamMKRG)
- ![gholugit](https://github.com/Pritanshu69/interhack/assets/116452282/ae69f63b-223e-47f9-8e48-afc089a22ebf)
 
-- 3.[NILAVA CHAKRABORTY](https://github.com/Nilavachakraborty)
- ![nilgit](https://github.com/Pritanshu69/interhack/assets/116452282/68717ff5-dd3a-4922-bc38-006f8aac1680)
+- 2.[SOHAM MUKHERJEE](https://github.com/sohamMKRG) 
+  
+![gholugit3](https://github.com/Pritanshu69/interhack/assets/116452282/f0b5543a-77d1-43e1-b79d-53ff5a45b114)
 
-- 4.[ASHMIT BARIK](https://github.com/Dev-ashxy)
- ![ashgit](https://github.com/Pritanshu69/interhack/assets/116452282/08f2368c-4550-4f80-a80a-6d5dd980e266)
+
+- 3.[NILAVA CHAKRABORTY](https://github.com/Nilavachakraborty) 
+  
+![nilgit3](https://github.com/Pritanshu69/interhack/assets/116452282/025a3dd5-446e-4ba2-a493-d4df6f184eb8)
+
+
+- 4.[ASHMIT BARIK](https://github.com/Dev-ashxy) 
+  
+![ashgit3](https://github.com/Pritanshu69/interhack/assets/116452282/c249e1da-e32b-4e52-8080-0e74f4ebebd6)
+
 
 
